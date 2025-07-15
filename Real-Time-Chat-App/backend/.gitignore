@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# Render deployment cache (just in case)
+.render/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# VS Code settings
+.vscode/
